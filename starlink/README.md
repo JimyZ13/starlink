@@ -29,6 +29,11 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### ` antd version info`
+
+The new 4.0 v antd npm library is not supported.\
+Please install specifically 3.x.x version of antd by running command npm install antd@3.x.x (whichever 3.0 stable version is available).
+
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
